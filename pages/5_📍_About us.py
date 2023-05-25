@@ -28,7 +28,7 @@ st.sidebar.image(image , use_column_width=True, output_format='auto')
 st.sidebar.markdown("---")
 
 
-st.sidebar.markdown("<br> <br> <br> <br> <br> <br> <br> <h1 style='text-align: center; font-size: 18px; color: #0080FF;'>© 2023 | Ioannis Bakomichalis</h1>", unsafe_allow_html=True)
+st.sidebar.markdown("<br> <br> <br> <br> <br> <br> <br> <h1 style='text-align: center; font-size: 18px; color: #0080FF;'>© 2023 | Pranav Naik</h1>", unsafe_allow_html=True)
 
 
 
@@ -37,10 +37,10 @@ st.title("About us📍")
 st.markdown("---")
 st.markdown("<br>", unsafe_allow_html=True)
 
-st.markdown("The project **_CBDA_** developed by Postgraduate student :blue[**_Ioannis Bakomichalis_**] for his MSc Dissertation :blue[**_Cyberbullying Detection through NLP & Machine Learning_**].")
+st.markdown("The project **_CBDA_** developed by :blue[**Pranav Naik_**] for OOSE Project :blue[**_Cyberbullying Detection through NLP & Machine Learning_**].")
 st.markdown(" <br> ", unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
-st.markdown("For any question about the project, please contact <a href=mailto:ioannis.bakomichalis@ssl-unipi.gr>Ioannis Bakomichalis</a> .", unsafe_allow_html=True)
+st.markdown("For any question about the project, please contact <a href=mailto:naikpranav110803@gmail.com>Pranav Naik</a> .", unsafe_allow_html=True)
 st.markdown("<br> <br> <br>", unsafe_allow_html=True)
 col1, col2 = st.columns([2,4])
 with col1:
